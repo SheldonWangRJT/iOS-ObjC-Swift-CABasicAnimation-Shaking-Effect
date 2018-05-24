@@ -18,3 +18,5 @@ Github: https://github.com/SheldonWangRJT
 To donate to me, please check the Paypal link in my channel header.
 
 https://www.youtube.com/c/iosetutorials
+
+![Demo](https://github.com/SheldonWangRJT/iOS-ObjC-Swift-CABasicAnimation-Shaking-Effect/blob/master/demo.gif)
